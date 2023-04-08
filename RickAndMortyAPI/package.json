@@ -1,7 +1,7 @@
 {
   "name": "mi-app",
   "version": "0.1.0",
-  "homepage": "https://damiancanteros.github.io/Guidebook-20-React/",
+  "homepage": "https://damiancanteros.github.io/Tic-Tac-Toe/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
